@@ -1,0 +1,15 @@
+# 环境变量文件。提交前仍需人工检查密钥。
+.env
+.env.*
+!.env.example
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 常见 keystore 目录
+keystore/
+keystores/
+.keystore/
