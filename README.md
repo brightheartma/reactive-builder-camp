@@ -8,6 +8,8 @@
 
 D1 自拟用例说明（尚未实现，尚未提交课程）：[notes/d1-use-case.md](notes/d1-use-case.md)。
 
+D2 费用说明（参数来自助手查询环境的只读调用，尚未提交课程）：[notes/d2-economy.md](notes/d2-economy.md)。
+
 ## 进度
 
 - [x] 2026-11-18（上海时间）领取 0.05 Sepolia 测试 ETH，并已换取 Lasna 测试币
