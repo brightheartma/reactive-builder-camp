@@ -8,6 +8,8 @@
 
 D1 自拟用例说明（尚未实现，尚未提交课程）：[notes/d1-use-case.md](notes/d1-use-case.md)。
 
+D3 第一次部署练习（本地测试已写好；链上部署还没做，课程也还没交）：[notes/d3-first-deploy.md](notes/d3-first-deploy.md)。
+
 ## 进度
 
 - [x] 2026-11-18（上海时间）领取 0.05 Sepolia 测试 ETH，并已换取 Lasna 测试币

@@ -13,3 +13,11 @@ desktop.ini
 keystore/
 keystores/
 .keystore/
+
+# Foundry 构建产物。broadcast 里可能有本地交易记录。
+out/
+cache/
+broadcast/
+
+# 练习依赖由 foundry.lock 固定，用 forge install 拉取。
+exercises/d3-first-deploy/lib/
